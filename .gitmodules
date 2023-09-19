@@ -1,0 +1,3 @@
+[submodule "prognosis"]
+	path = prognosis
+	url = https://github.com/iyxan23/idn-itfest-prognosis
