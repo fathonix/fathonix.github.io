@@ -4,3 +4,6 @@
 [submodule "bookshelf"]
 	path = bookshelf
 	url = https://github.com/fathonix/Bookshelf
+[submodule "portfolio-old"]
+	path = portfolio-old
+	url = https://github.com/fathonix/WebPortfolio
