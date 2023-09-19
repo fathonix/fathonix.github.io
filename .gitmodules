@@ -1,3 +1,6 @@
 [submodule "prognosis"]
 	path = prognosis
 	url = https://github.com/iyxan23/idn-itfest-prognosis
+[submodule "bookshelf"]
+	path = bookshelf
+	url = https://github.com/fathonix/Bookshelf
