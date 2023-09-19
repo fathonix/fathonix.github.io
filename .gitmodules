@@ -7,3 +7,6 @@
 [submodule "portfolio-old"]
 	path = portfolio-old
 	url = https://github.com/fathonix/WebPortfolio
+[submodule "bios"]
+	path = bios
+	url = https://github.com/fathonix/SegaCDBIOSWeb
