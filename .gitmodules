@@ -1,15 +1,20 @@
 [submodule "prognosis"]
 	path = prognosis
 	url = https://github.com/iyxan23/idn-itfest-prognosis
+	shallow = true
 [submodule "bookshelf"]
 	path = bookshelf
 	url = https://github.com/fathonix/Bookshelf
+	shallow = true
 [submodule "portfolio-old"]
 	path = portfolio-old
 	url = https://github.com/fathonix/WebPortfolio
+	shallow = true
 [submodule "bios"]
 	path = bios
 	url = https://github.com/fathonix/SegaCDBIOSWeb
+	shallow = true
 [submodule "u"]
 	path = u
 	url = https://github.com/fathonix/url-redirects.git
+	shallow = true
