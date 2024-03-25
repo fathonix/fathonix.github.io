@@ -10,3 +10,6 @@
 [submodule "bios"]
 	path = bios
 	url = https://github.com/fathonix/SegaCDBIOSWeb
+[submodule "u"]
+	path = u
+	url = https://github.com/fathonix/url-redirects.git
