@@ -18,3 +18,6 @@
 	path = u
 	url = https://github.com/fathonix/url-redirects.git
 	shallow = true
+[submodule "radio-sunnah"]
+	path = radio-sunnah
+	url = https://github.com/fathonix/radio-sunnah-indonesia
