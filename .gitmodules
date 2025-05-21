@@ -21,3 +21,4 @@
 [submodule "radio-sunnah"]
 	path = radio-sunnah
 	url = https://github.com/fathonix/radio-sunnah-indonesia
+	shallow = true
